@@ -1,0 +1,18 @@
+#main{
+    position: relative;
+}
+.icon{
+    position: absolute;
+    right: 30px;
+    top: 13px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.close{
+    font-size: 25px;
+    display: none;
+}
+.open{
+    font-size: 25px;
+    display: inline-block;
+}

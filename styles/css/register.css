@@ -1,0 +1,18 @@
+.mid{
+    position: relative;
+}
+.icon{
+    position: absolute;
+    right: 30px;
+    top: 13px;
+}
+.passclose, .repassclose{
+    display: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+.passopen, .repassopen{
+    font-size: 25px;
+    display: inline-block;
+    cursor: pointer;
+}
